@@ -1,0 +1,25 @@
+name: Expire shares
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 每天北京时间 09:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/expire.py
+        env:
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
+      - name: Commit status changes
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Mark expired shares as deleted"
+          git push
