@@ -1,7 +1,7 @@
 ---
 title: "ME — 关于我的人生与个人上下文"
 version: "2.0"
-last_updated: "2026-10-26"
+last_updated: "2026-10-27"
 language: "zh-CN"
 ---
 
@@ -54,7 +54,7 @@ language: "zh-CN"
 
 - [how-i-work.md](me/how-i-work.md)：做事习惯，「认得出，说不出」，意见不合时怎么办，帮人的边界。
 - [life.md](me/life.md)：名字的来历、日常、家人、朋友、游戏和 VRChat、音乐和唱歌、动漫、语言、做东西、旅行。
-- [future.md](me/future.md)：选工作看什么，为什么不读研，先搞钱，对以后的期待，退休以后。
+- [future.md](me/future.md)：选工作看什么，为什么不读研，钱与自由、个人价值、对以后的期待及退休生活。
 - [appendix-gaokao.md](me/appendix-gaokao.md)：2022—2023 年高三考试成绩记录。
 
 ## 以后再补
