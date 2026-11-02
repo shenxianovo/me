@@ -1,6 +1,6 @@
 ---
 title: "我怎么做事"
-last_updated: "2026-10-26"
+last_updated: "2026-11-02"
 ---
 
 # 我怎么做事
@@ -23,6 +23,8 @@ last_updated: "2026-10-26"
 
 > Stop putting AI into software.  
 > Grow software out of AI.
+
+人和 Agent 共用的这些信息之间是什么关系，我写成过一篇[软件工程的信息模型](https://github.com/shenxianovo/formal-models/blob/main/models/software-engineering-information.md)：代码、需求、测试、日志这些材料各自表达什么，哪些能从已有材料推出来，哪些得靠决策或观测补上，怎样以能接受的成本把它们之间的关系维护住。
 
 ## 想到就做，交给 Agent 时再写清楚
 

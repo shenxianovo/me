@@ -20,7 +20,7 @@ language: "zh-CN"
 - 想做的方向：软件工程、后端、AI 基础设施、研发效能、可观测性，还有人和 Agent 怎么协作。
 - 对团队的期待：不只想在既定流程里自主完成工作，也希望能参与技术决策、改进工程流程；看重决策权和结果责任是否匹配，以及团队的「组织可塑性」，不以公司规模判断（见 [future.md](me/future.md#工作)）。
 - 语言：中文；英语 CET-6 602 分；日语 JLPT N2，一直在练口语。
-- 链接：[GitHub](https://github.com/shenxianovo) · [个人网站](https://shenxianovo.com) · [Orisumi](https://github.com/shenxianovo/Orisumi)
+- 链接：[GitHub](https://github.com/shenxianovo) · [个人网站](https://shenxianovo.com) · [Orisumi](https://github.com/shenxianovo/Orisumi) · [formal-models](https://github.com/shenxianovo/formal-models)（意图识别和软件工程信息的形式化模型）
 
 写社团文档、做软件、琢磨 Agent，我在意的都是同一件事：别让后来的人从零开始（见 [how-i-work.md](me/how-i-work.md)）。
 
