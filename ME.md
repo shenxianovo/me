@@ -1,7 +1,7 @@
 ---
 title: "ME — 关于我的人生与个人上下文"
 version: "2.0"
-last_updated: "2026-10-27"
+last_updated: "2026-11-02"
 language: "zh-CN"
 ---
 
@@ -18,6 +18,7 @@ language: "zh-CN"
 - 2023 年 9 月进武汉大学水利水电专业，大一下转到计算机学院，现在读人工智能专业，预计 2027 年 6 月毕业。
 - 2026 年 10 月：在读本科，在上海实习。毕业后直接工作，不读研。
 - 想做的方向：软件工程、后端、AI 基础设施、研发效能、可观测性，还有人和 Agent 怎么协作。
+- 对团队的期待：不只想在既定流程里自主完成工作，也希望能参与技术决策、改进工程流程；看重决策权和结果责任是否匹配，以及团队的「组织可塑性」，不以公司规模判断（见 [future.md](me/future.md#工作)）。
 - 语言：中文；英语 CET-6 602 分；日语 JLPT N2，一直在练口语。
 - 链接：[GitHub](https://github.com/shenxianovo) · [个人网站](https://shenxianovo.com) · [Orisumi](https://github.com/shenxianovo/Orisumi)
 
@@ -45,7 +46,7 @@ language: "zh-CN"
 - [2023-summer.md](me/experience/2023-summer.md)：高考后的第一台电脑，从 51 单片机开始学编程。
 - [whu.md](me/experience/whu.md)：进武大，转专业，对大学教学的看法，自学和翘课。
 - [coding.md](me/experience/coding.md)：命令行和三台服务器，C# 和《软件构造基础》，用 AI 写代码的三次变化。
-- [whudays.md](me/experience/whudays.md)：武汉大学动漫协会，从演音部长到社长，文档和交接，对管理的反思。
+- [whudays.md](me/experience/whudays.md)：武汉大学动漫协会，从演音部长到社长，晚会职责的重新划分、文档交接与管理反思；相关原始资料在 [WHUDAYS-HQ](https://github.com/WHUDAYS/WHUDAYS-HQ)。
 - [openwhu.md](me/experience/openwhu.md)：从给 OpenWHU 交课程资料到当上 Owner。
 - [internships.md](me/experience/internships.md)：网易云音乐、哔哩哔哩「花生」、字节跳动 ModelHub。
 - [orisumi.md](me/experience/orisumi.md)：Orisumi 从记录电脑活动到数字化整个人，还有这份 ME.md 的由来。
