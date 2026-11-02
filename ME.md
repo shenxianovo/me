@@ -14,7 +14,7 @@ language: "zh-CN"
 ## 速览
 
 - 名字：网络账号常用 `shenxianovo`；在武汉大学动漫协会的圈名（CN）是 `-QuQ-`。来历见 [life.md](me/life.md#名字)。
-- 湖北恩施人。初中、高中都在恩施清江外国语学校。
+- 湖北恩施人。
 - 2023 年 9 月进武汉大学水利水电专业，大一下转到计算机学院，现在读人工智能专业，预计 2027 年 6 月毕业。
 - 2026 年 10 月：在读本科，在上海实习。毕业后直接工作，不读研。
 - 想做的方向：软件工程、后端、AI 基础设施、研发效能、可观测性，还有人和 Agent 怎么协作。
@@ -42,7 +42,7 @@ language: "zh-CN"
 
 经历，大致按时间：
 
-- [enshi-highschool.md](me/experience/enshi-highschool.md)：恩施长大，小学的电脑、Flash 和钢琴，高中用 MP3 听网课自学，高考成绩。
+- [enshi-highschool.md](me/experience/enshi-highschool.md)：恩施长大，小学的电脑、Flash 和钢琴，高中用 MP3 听网课自学。
 - [2023-summer.md](me/experience/2023-summer.md)：高考后的第一台电脑，从 51 单片机开始学编程。
 - [whu.md](me/experience/whu.md)：进武大，转专业，对大学教学的看法，自学和翘课。
 - [coding.md](me/experience/coding.md)：命令行和三台服务器，C# 和《软件构造基础》，用 AI 写代码的三次变化。
@@ -54,9 +54,8 @@ language: "zh-CN"
 其他：
 
 - [how-i-work.md](me/how-i-work.md)：做事习惯，「认得出，说不出」，意见不合时怎么办，帮人的边界。
-- [life.md](me/life.md)：名字的来历、日常、家人、朋友、游戏和 VRChat、音乐和唱歌、动漫、语言、做东西、旅行。
-- [future.md](me/future.md)：选工作看什么，为什么不读研，钱与自由、个人价值、对以后的期待及退休生活。
-- [appendix-gaokao.md](me/appendix-gaokao.md)：2022—2023 年高三考试成绩记录。
+- [life.md](me/life.md)：名字的来历、日常、自己拿主意、朋友、游戏和 VRChat、音乐和唱歌、动漫、语言、做东西、旅行。
+- [future.md](me/future.md)：选工作看什么，为什么不读研，个人价值和自由，退休以后。
 
 ## 以后再补
 
