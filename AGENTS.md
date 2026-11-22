@@ -1,6 +1,6 @@
 # me
 
-本仓库只放可以公开的内容。`ME.md` 是入口，和 `me/` 目录下的文件一起构成关于我的个人档案。`ME.md` 的路径和文件名不要改，`~/.claude/CLAUDE.md` 和 `~/.codex/AGENTS.md` 里有指向它的指针。简历里的「给 Agent 的阅读指南」点名了 `ME.md`、`me/how-i-work.md`、`me/experience/coding.md`、`me/experience/orisumi.md`，这几个路径也不要改。
+本仓库只放可以公开的内容。`ME.md` 是入口，和 `me/` 目录下的文件一起构成关于我的个人档案。`ME.md` 和 `me/agents.md` 的路径和文件名不要改：`~/.claude/CLAUDE.md` 和 `~/.codex/AGENTS.md` 是指向 `me/agents.md` 的软链接，它又指向 `ME.md`。简历里的「给 Agent 的阅读指南」点名了 `ME.md`、`me/how-i-work.md`、`me/experience/coding.md`、`me/experience/orisumi.md`，这几个路径也不要改。
 
 与我协作时，先读 [协作约定](me/collaboration.md)。通用协作要求在那一处维护，下面的规则用于维护本仓库。
 
