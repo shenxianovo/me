@@ -1,6 +1,6 @@
 ---
 title: "我的 Agent 全局说明"
-last_updated: "2026-11-22"
+last_updated: "2026-11-24"
 ---
 
 # 我的 Agent 全局说明
@@ -14,9 +14,19 @@ last_updated: "2026-11-22"
 ## 分工
 
 - Claude 写规格、审查，界面和文档也由 Claude 自己写。
-- 已经定下来的实现交给 Codex 的 `gpt-6.2-sol`。规格写清范围、约束和验收；做完 Claude 审 diff，用真实数据验证。
-- 策略和复杂逻辑先和 `gpt-6.2-astra` 讨论，思考强度 high 以上。
+- 几十行以内的改动、修审查发现的问题、要和界面来回对接口的功能，Claude 自己做。
+- 接口和验收已经定下来的成块实现，以及策略和复杂逻辑的讨论，交给 Codex 的 `gpt-6.2-astra`。规格写清范围、约束、验收和要一起改的同类；做完 Claude 审 diff，用真实数据验证。
 - 两边不同时改同一个文件。
+
+### 调用 Codex
+
+统一用 `~/.local/bin/codex-worker`，不直接调 `codex exec`。任务写成文件，放后台跑；最后一条回复在同目录的 `<文件名>.out.md`，会话 ID 在输出开头。
+
+| 用途 | 命令 | 思考强度 |
+|---|---|---|
+| 实现 | `codex-worker <仓库> <规格.md>` | high |
+| 讨论 | `codex-worker --ask <仓库> <问题.md>` | xhigh |
+| 追加 | `codex-worker [--ask] --resume <会话ID> <仓库> <追加.md>` | 同原会话 |
 
 ## 写文档
 
