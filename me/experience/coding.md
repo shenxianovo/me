@@ -1,6 +1,6 @@
 ---
 title: "写代码这几年"
-last_updated: "2026-10-26"
+last_updated: "2026-11-25"
 ---
 
 # 写代码这几年
@@ -18,6 +18,8 @@ last_updated: "2026-10-26"
 后来部署的东西越来越多。到 2026 年 10 月，当初那台 Azure 学生机变成了三台低配 Linux 服务器：Docker Compose 跑着十几个服务，有 Orisumi 的前后端，也有别的个人项目；GitHub Actions 自动构建、发布；Prometheus 和 Grafana 收指标、看指标；Uptime Kuma 探活、告警。我还自己写了个认证授权服务，给别的项目提供 OAuth2 这些能力。
 
 入口都挂在我的 [GitHub 主页](https://github.com/shenxianovo)上，有 [Orisumi 文档站](https://docs.orisumi.dev/)、[服务状态](https://status.shenxianovo.com/)和[个人博客](https://blog.shenxianovo.com/)。我的[在线简历](https://github.com/shenxianovo/homepage/blob/main/content/resume.mdx)管这套叫「3 台小鸡搭的简陋基建」，还写了句「虽然只有一个人用，但弄个看板还是很好玩吧……」。折腾这些就挺好玩的，用的人多不多无所谓。
+
+到了 2026 年 11 月，入手 Mac mini 以后，我又搭了一套叫 Catnet 的基建，不只给自己用，也给卸任漫协社长后拉的那个小群（见 [life.md](../life.md#朋友和社交)）用。用 Tailscale 把家里的 Mac mini 和几台云节点连成 Tailnet，核心服务、Casdoor 统一登录和 Prometheus / Grafana 监控跑在 Mac mini 上，云节点做公网 Caddy 入口经 Tailnet 回源，另配了 Uptime Kuma 探活；节点配置和部署用自己写的脚本统一渲染和管理。小群成员在 Casdoor 里凭邀请码注册账号，就能共用这套登录和上面的服务。
 
 ## C# 和《软件构造基础》
 

@@ -1,7 +1,7 @@
 ---
 title: "ME — 关于我的人生与个人上下文"
 version: "2.0"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 language: "zh-CN"
 ---
 
@@ -16,7 +16,7 @@ language: "zh-CN"
 - 名字：网络账号常用 `shenxianovo`；在武汉大学动漫协会的圈名（CN）是 `-QuQ-`。来历见 [life.md](me/life.md#名字)。
 - 湖北恩施人。
 - 2023 年 9 月进武汉大学水利水电专业，大一下转到计算机学院，现在读人工智能专业，预计 2027 年 6 月毕业。
-- 2026 年 10 月：在读本科，在上海实习。毕业后直接工作，不读研。
+- 2026 年 11 月：在读本科，月底结束上海的实习回学校做毕设（Orisumi）和个人项目。毕业后直接工作，不读研。
 - 想做的方向：软件工程、后端、AI 基础设施、研发效能、可观测性，还有人和 Agent 怎么协作。
 - 对团队的期待：不只想在既定流程里自主完成工作，也希望能参与技术决策、改进工程流程；看重决策权和结果责任是否匹配，以及团队的「组织可塑性」，不以公司规模判断（见 [future.md](me/future.md#工作)）。
 - 语言：中文；英语 CET-6 602 分；日语 JLPT N2，一直在练口语。
@@ -46,7 +46,7 @@ language: "zh-CN"
 其他：
 
 - [collaboration.md](me/collaboration.md)：我与 Agent 的协作约定，如何澄清问题、判断范围、主动执行和互相提醒。
-- [agents.md](me/agents.md)：我机器上 Claude Code 和 Codex 的全局入口，分工、写文档和提交的约定。
+- [agents.md](me/agents.md)：我机器上 Claude Code、Codex 和 Antigravity 的全局入口，分工、写文档和提交的约定。
 - [how-i-work.md](me/how-i-work.md)：做事习惯，「认得出，说不出」，意见不合时怎么办，帮人的边界。
 - [life.md](me/life.md)：名字的来历、日常、自己拿主意、朋友、游戏和 VRChat、音乐和唱歌、动漫、语言、做东西、旅行。
 - [future.md](me/future.md)：选工作看什么，为什么不读研，个人价值和自由，退休以后。

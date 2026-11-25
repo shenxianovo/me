@@ -1,13 +1,13 @@
 ---
 title: "Orisumi 与这份 ME.md"
-last_updated: "2026-10-26"
+last_updated: "2026-11-25"
 ---
 
 # Orisumi 与这份 ME.md
 
 ## 从记录电脑活动开始
 
-[Orisumi](https://github.com/shenxianovo/Orisumi) 原来叫 Heartbeat，一开始目标很小，就想做一个功能：记下我今天在电脑上干了什么。做着做着越做越大，现在的目标是把我整个人数字化。
+[Orisumi](https://github.com/shenxianovo/Orisumi) 原来叫 Heartbeat，一开始目标很小，就想做一个功能：记下我今天在电脑上干了什么。做着做着越做越大，现在的目标是把我整个人数字化。本科毕业设计我也打算拿 Orisumi 来做。
 
 ## AI 让重写变便宜了
 

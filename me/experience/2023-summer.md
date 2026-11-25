@@ -1,15 +1,15 @@
 ---
 title: "高考后：第一台电脑和单片机"
-last_updated: "2026-10-26"
+last_updated: "2026-11-25"
 ---
 
 # 高考后：第一台电脑和单片机
 
 ## 第一台电脑
 
-2023 年高考完的暑假，我才有了第一台自己的电脑，小学那台是家里的。联想拯救者 Y7000P，Intel Core i7 处理器，NVIDIA GeForce RTX 4060 Laptop GPU。要打游戏也要编程，所以得有独显和够用的 CPU，型号是看 B 站的选购教程挑的。到 2026 年 10 月还在用。
+2023 年高考完的暑假，我才有了第一台自己的电脑，小学那台是家里的。联想拯救者 Y7000P，Intel Core i7 处理器，NVIDIA GeForce RTX 4060 Laptop GPU。要打游戏也要编程，所以得有独显和够用的 CPU，型号是看 B 站的选购教程挑的。
 
-以后可能再买台 MacBook，Windows 也留着：Windows 打游戏，Mac 写代码。写代码我更想要类 UNIX 环境，尤其用 Coding Agent 时，我觉得 Bash 比 PowerShell（pwsh）更好让 Agent 操作。Windows 上装了 WSL，用着还是别扭。可 Windows 程序的开发和验证又离不开 Windows，所以两边都要。
+原本打算再买台 MacBook，后来入手了一台 Mac mini（Apple M6，24 GB 内存），Windows 留着打游戏、开发和验证 Windows 程序，Mac 用来写代码。写代码我更想要类 UNIX 环境，尤其用 Coding Agent 时，我觉得 Bash 比 PowerShell（pwsh）更好让 Agent 操作。Windows 上装了 WSL，用着还是别扭，所以两边都要。
 
 ## 从单片机开始
 
