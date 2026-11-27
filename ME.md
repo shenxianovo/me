@@ -28,7 +28,7 @@ language: "zh-CN"
 
 我希望 Agent 能结合这份档案和 Orisumi 积累的观测，理解我眼下的目标和处境，主动提出有依据的提醒和建议。
 
-与我协作时，先读 [我与 Agent 的协作约定](me/collaboration.md)。这里保留入口，完整约定在那一处维护，其中也包括对我自己的提醒。我自己机器上各个 Agent 的全局约定按设备和工具组合生成，个人部分就是这份协作约定。
+与我协作时，先读 [我与 Agent 的协作约定](me/collaboration.md)。这里保留入口，完整约定在那一处维护。我自己机器上各个 Agent 的全局约定按设备和工具组合生成，个人部分就是这份协作约定。
 
 ## 索引
 
@@ -45,7 +45,7 @@ language: "zh-CN"
 
 其他：
 
-- [collaboration.md](me/collaboration.md)：我与 Agent 的协作约定，如何澄清问题、判断范围、主动执行和互相提醒，以及写文档和提交的约定。
+- [collaboration.md](me/collaboration.md)：我与 Agent 的协作约定，如何分清讨论和交办、说明依据、控制复杂度和验证，以及写文档和提交的约定。
 - [how-i-work.md](me/how-i-work.md)：做事习惯，「认得出，说不出」，意见不合时怎么办，帮人的边界。
 - [life.md](me/life.md)：名字的来历、日常、自己拿主意、朋友、游戏和 VRChat、音乐和唱歌、动漫、语言、做东西、旅行。
 - [future.md](me/future.md)：选工作看什么，为什么不读研，个人价值和自由，退休以后。
